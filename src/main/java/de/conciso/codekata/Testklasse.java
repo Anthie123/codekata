@@ -17,6 +17,6 @@ public class Testklasse
     }
 
     public void greetAndCalculate(WriteSomewhere out) {
-        out.write(preference.name() + "added " + calculate());
+        out.write(preference.name() + " added " + calculate());
     }
 }
