@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 
-public class TicTacToeTest
+public class CodeKataTest
 {
     @Test
     public void testApp()
