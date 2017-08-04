@@ -1,10 +1,10 @@
 package de.conciso.codekata;
 
-public class Testklasse
+public class Beispiel
 {
     private final Preference preference;
 
-    public Testklasse(Preference p) {
+    public Beispiel(Preference p) {
         this.preference = p;
     }
 
